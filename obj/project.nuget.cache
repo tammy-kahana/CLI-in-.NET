@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "N451F1hJ3UE=",
+  "success": true,
+  "projectFilePath": "D:\\Users\\User\\Desktop\\practicode\\p1\\p1\\p1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\system.commandline\\2.0.13\\system.commandline.2.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
